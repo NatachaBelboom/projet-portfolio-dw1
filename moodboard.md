@@ -18,5 +18,5 @@ J'aime aussi le principe de numérotation qui se trouve à gauche.
 Beaucoup de chose se passe au survol des éléments. Par exemple, les boutons se remplissent d'un couleur.
 http://www.jennyjohannesson.com/
 
-Meme principe de changement de page: https://kuon.space/#contact
+Meme principe de changement de page: https://kuon.space/#reile
  
