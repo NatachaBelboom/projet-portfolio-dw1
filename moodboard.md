@@ -7,7 +7,11 @@ Pour les couleurs, je partirai sur un portfolio assez simple et contrasté. C'es
 portfolio tres contrasté mais dans l'esprit de ce que je voudrais réaliser.
 https://www.behance.net/gallery/94014737/Portfolio-2019?tracking_source=search_projects_recommended%7Cportfolio
 
-Autre exemple: https://www.niccolomiranda.com/
+Autres exemples: https://www.niccolomiranda.com/
+https://chiaraluzzana.com/ 
+https://ukyomas.jp/
+https://dunderville.se/
+
 
 ## Structure
 J'aime la facon d'avoir structuré les projets. D'abord une page qui reprend tout avec des couleurs bien distinctes pour chaque projet. 
@@ -18,5 +22,17 @@ J'aime aussi le principe de numérotation qui se trouve à gauche.
 Beaucoup de chose se passe au survol des éléments. Par exemple, les boutons se remplissent d'un couleur.
 http://www.jennyjohannesson.com/
 
-Meme principe de changement de page: https://kuon.space/#reile
+Meme principe de changement de page: https://kuon.space/#contact
+
+## Typo
+
+J'aime la superposition de 2 typographies différentes.
  
+https://www.behance.net/gallery/109362067/Lucazs-Portfolio?tracking_source=search_projects_recommended
+
+Mais aussi les grandes typo
+https://chiaraluzzana.com/ 
+https://www.hugocrozet.com/
+https://www.chungiyoo.com/
+https://www.aristidebenoist.com/
+
