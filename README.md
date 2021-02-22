@@ -14,7 +14,7 @@ En ouvrant un menu de restaurant on retrouve une brève description de l'établi
 
 C'est donc ainsi que je vais procéder. 
 
-Je suis partie vers les menus sur planche en bois avec une pince sur le dessus (Moodboard).  Cela provoque donc que les pages ne se tournent pas comme dans un livre mais plutôt à la verticalité.
+Je suis partie vers les menus sur planche en bois avec une pince sur le dessus (https://app.milanote.com/e/1LdSUJ1zy0ka3B).  Cela provoque donc que les pages ne se tournent pas comme dans un livre mais plutôt à la verticalité.
 Il faudrait donc que le changement des différentes pages se fasse aussi a la verticalité comme si on feuilletait le menu.
 
 Les couleurs du site resteront simples. C'est-à-dire pour la base du noir, voire du gris foncé et du blanc avec quelques touches de couleurs.
@@ -32,8 +32,16 @@ Le menu de navigation sera aussi présent car ce sera un fixed nav. Donc on le r
 Pour accéder à un projet en particulier, il suffit de cliquer sur celui qui vous intéresse. Au survol de chaque projet, il y aura une petite animation. Le titre du projet qui de base est rempli de blanc se change. Le texte devient transparent avec un contour. (Moodboard)
 
 Sur chaque page de chaque projet, il y aura donc le fixed nav qui permettera de naviguer dans le site. Mais aussi un bouton retour, pour optimiser les chances de pouvoir revenir en arrière, c'est-à-dire donc sur la section contenant tous les projets.
-Une fois sur une page d'un projet, il n'est pas obligé de revenir à la page d'avant pour voir un autre projet. Un système de pagination est présent en bas de la page. Il indique à quel numéro de projet on se situe et permet de passer d'un projet à l'autre avec les flèches (Moodboard)
+
+Une fois sur une page d'un projet, il n'est pas obligé de revenir à la page d'avant pour voir un autre projet.
+Un système de pagination est présent en bas de la page. Il indique à quel numéro de projet on se situe et permet de passer d'un projet à l'autre en cliquant sur un numéro (Moodboard)
+
+Sur cette page se trouve aussi une description complète du projet, des photos de la réalisation et la date. 
+
+Cette page fait référence à une page qu'on pourrait retrouver dans le menu d'un restaurant qui décrirait plus en détails les ingrédients du plat, les allergènes,...
 
 
+De retour sur la page d'accueil, à la toute fin de celle-ci se trouvera une section avec les liens vers mes réseaux sociaux. Peut-être y aura-t-il mon adresse mail qui servira de lien vers la page de contact.
 
+TODO: page de contact et page about. décrire aussi survol bouton contact et typo
 
