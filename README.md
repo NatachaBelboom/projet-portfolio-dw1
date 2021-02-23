@@ -39,7 +39,7 @@ Sur cette page se trouve aussi une description complète du projet, des photos d
 
 Cette page fait référence à une page qu'on pourrait retrouver dans le menu d'un restaurant qui décrirait plus en détails les ingrédients du plat, les allergènes,...
 
-De retour sur la page d'accueil, à la toute fin de celle-ci se trouvera une section avec les liens vers mes réseaux sociaux. Peut-être y aura-t-il mon adresse mail qui servira aussi de lien vers la page de contact.
+De retour sur la page d'accueil, à la toute fin de celle-ci se trouvera une section avec les liens vers mes réseaux sociaux. Il y aura sûrment mon adresse mail qui servira aussi de lien vers la page de contact.
 
 En ce qui concerne la page "à propos", on y retrouvera une petite biographie expliquant mon parcours et mes compétences ainsi que mon nom et prénom. Une photo et les liens vers mes réseaux sociaux seront présents. 
 Les liens vers les autres pages sont encore une fois accessibles grâce au fixed nav.
