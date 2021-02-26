@@ -5,10 +5,18 @@ https://github.com/hepl-dw/projet-portfolio
 
 lien du moodboard Milanote: https://app.milanote.com/1Ld0d91pCxFB46?p=fDwinFLeTlS
 
+## Présentation du projet
+
+## Public cible 
+
+## Cahier des charges
+
+## Plan de site 
+
 ## Concept
 Faire du portfolio un menu de restaurant
 
-## Stratégie 
+## Stratégie (à retravailler)
 
 En ouvrant un menu de restaurant on retrouve une brève description du restaurant et ensuite, la carte. 
 
