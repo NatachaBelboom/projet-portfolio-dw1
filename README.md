@@ -9,13 +9,15 @@ lien du moodboard Milanote: https://app.milanote.com/1Ld0d91pCxFB46?p=fDwinFLeTl
 ## Public cible 
  * professionnels (offre de stage, emploi) (--> Pas spécialement besoin d'une version mobile car visite plus sur l'ordinateur)
  * tout le monde 
- 
-## Cahier des charges
 
 ## Plan de site 
 
 ## Concept
-Faire du portfolio un menu de restaurant
+Le concept de mon portfolio est de le réaliser sous forme de menu de restaurant. Ce menu est présenté sur une planche en bois avec une grosse pince au dessus pour rassembler les pages.
+Cela provoque donc que les pages ne se tournent pas comme dans un livre à l'horizontale mais plutôt à la verticale.
+
+Les couleurs du site resteront simples. C'est-à-dire pour la base du noir, voire du gris foncé et du blanc avec quelques touches de couleurs.
+
 
 ## Stratégie (à retravailler)
 1. Page d'accueil
@@ -48,12 +50,4 @@ Faire du portfolio un menu de restaurant
     * Menu de navigation similaire aux autres pages.
     * Formulaire de contact pour avoir la possibilité de me contacter.
     
-En ouvrant un menu de restaurant on retrouve une brève description du restaurant et ensuite, la carte. 
-
-C'est donc ainsi que je vais procéder. 
-
-Je suis partie vers les menus sur planche en bois avec une pince sur le dessus (https://app.milanote.com/e/1LdSUJ1zy0ka3B).  Cela provoque donc que les pages ne se tournent pas comme dans un livre mais plutôt à la verticalité.
-Il faudrait donc que le changement des différentes pages se fasse aussi a la verticalité comme si on feuilletait le menu.
-
-Les couleurs du site resteront simples. C'est-à-dire pour la base du noir, voire du gris foncé et du blanc avec quelques touches de couleurs.
 
