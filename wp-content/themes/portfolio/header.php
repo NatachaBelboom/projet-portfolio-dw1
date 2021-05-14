@@ -9,5 +9,12 @@
 </head>
 <body>
     <header class="top">
+        <h1><?php the_title(); ?></h1>
+        <nav class="top__menu menu">
+            <h2 class="sro">Navigation principale</h2>
 
+            <?php foreach(dw_menu('main') as $link): ?>
+                <a href="<?= $link->url; ?>" class="menu__link <?= dw_bem('menu__link', $link->modifiers); ?>"><?= $link->label; ?></a>
+            <?php endforeach; ?>
+        </nav>
     </header>
