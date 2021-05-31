@@ -1,0 +1,66 @@
+.project__video {
+  border: solid 1px #f8f8f8;
+  width: 100%;
+}
+
+.project__date {
+  font-size: 1.125em;
+}
+
+.project__design {
+  margin: 0 2.5em;
+}
+
+.project__infos {
+  text-align: center;
+  margin: 3.333333333333333em 0;
+  font-size: 1.125em;
+}
+
+.project__description {
+  column-count: 2;
+  column-gap: 1.111111111111111em;
+  font-size: 1.125em;
+  line-height: 1.388888888888889em;
+  margin-bottom: 5.555555555555556em;
+}
+
+.img-slider {
+  background-color: #f8f8f8;
+  padding: 8.125em 0;
+  margin-bottom: 2.5em;
+}
+
+.project__preview, .project__next {
+  text-decoration: none;
+  color: #f8f8f8;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.project__button_container {
+  display: block;
+}
+
+.project__button_container a {
+  display: inline-block;
+}
+
+.preview__next {
+  margin-top: 5em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project__preview img {
+  margin-right: 1.25em;
+}
+.project__next img{
+  margin-left: 1.25em;
+}

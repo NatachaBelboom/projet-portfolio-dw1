@@ -1,3 +1,51 @@
-html {
-  font-size: 16px;
+@import "reset";
+@import "header";
+@import "home-page";
+@import "footer";
+@import "about";
+@import "contact";
+@import "single-project";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+
+
+.sro {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
 }
+html{
+  background-color: #202020;//#1C1C1C
+  color: #F8F8F8;
+  font-family: 'Lato', sans-serif;
+  padding: 1.875em 3.125em 0;
+}
+
+body, body * {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 800px) {
+  html{
+    padding: 3.75em 6.25em 0;
+  }
+}
+
+@media screen and (min-width: 1280px){
+  html {
+    padding: 6.25em 9em 0;
+  }
+}
+
+
+
+
+

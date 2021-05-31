@@ -1,0 +1,46 @@
+.description__text {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 1.25em 0 3.75em;
+}
+.description__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.description__container img {
+  width: 100%;
+  height: auto;
+
+}
+.creation {
+  text-align: center;
+}
+.creation__title {
+  font-family: "Playfair Display", serif;
+  font-size: 1.875em;
+  font-weight: bold;
+  margin: 4em 0 2em;
+}
+
+@media screen and (min-width: 800px) {
+  .description__text {
+    font-size: 1.125em;
+    line-height: 1.333333333333333em;
+    margin: 1.111111111111111em 0 3.333333333333333em;
+  }
+  .description__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .description__container img {
+    width: 55%;
+    height: auto;
+    margin-right: 1.5625em;
+  }
+  .creation {
+    text-align: center;
+  }
+
+}

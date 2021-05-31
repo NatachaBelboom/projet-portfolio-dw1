@@ -1,0 +1,67 @@
+.contact {
+  text-align: center;
+}
+
+p.contact__me {
+  font-size: 1.25em;
+  text-transform: uppercase;
+  color: #F5CA41;
+  font-weight: 300;
+  margin-bottom: 2.7em;
+}
+
+form input, form textarea {
+  font: 1em sans-serif;
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #f8f8f8;
+  background-color: transparent;
+}
+
+form label {
+  display: inline-block;
+  text-align: left;
+}
+
+form input {
+  padding: 1em 1em;
+  color: #f8f8f8;
+}
+
+form textarea {
+  vertical-align: middle;
+  padding: 1em 1em;
+  color: #f8f8f8;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  height: 9.375em;
+  min-height: 6.25em;
+  max-height: 18.75em;
+}
+
+form input::placeholder, form textarea::placeholder {
+  color: #f8f8f8;
+  font-size: 0.9em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+form .button {
+  position: relative;
+  padding: 1.375em 0;
+  width: 100%;
+  margin-top: 1.875em;
+  background-color: transparent;
+  border: 2px solid #F5CA41;
+  color: #f8f8f8;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1em;
+}
+
+@media screen and (min-width: 1024px) {
+  form {
+    padding: 0 10%;
+  }
+}
