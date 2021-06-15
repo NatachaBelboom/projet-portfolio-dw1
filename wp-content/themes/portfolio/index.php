@@ -12,7 +12,7 @@
                 magna aliqua. Lectus mauris ultrices eros in cursus. Ut tortor pretium viverra suspendisse potenti nullam ac
                 tortor vitae. Cras semper auctor neque vitae. Vel turpis nunc eget lorem.
             </p>
-            <a href="#" class="button">Le découvrir
+            <a href="http://portfolio.local/projects/easy-spacy/" class="button">Le découvrir
                 <span></span>
             </a>
         </div>

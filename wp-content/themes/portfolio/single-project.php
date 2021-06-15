@@ -14,7 +14,7 @@ get_header(); ?>
 
         </div>
         <div class="project__button_container">
-            <a href="http://portfolio.local/a-propos/" class="button button_site">Visiter le site
+            <a href="<?php the_field('link'); ?>" target="_blank" class="button button_site">Visiter le site
                 <span></span>
             </a>
         </div>

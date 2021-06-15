@@ -23,13 +23,19 @@ header h1 {
 .top__menu {
   margin: 2.3076923077em 0;
   font-size: 0.8125em;
+  padding: 0 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .menu .menu__link {
   text-transform: uppercase;
   text-decoration: none;
   color: #F8F8F8;
-  margin: 0 10px;
+  margin: 10px;
 }
 
 @media screen and (min-width: 800px) {
