@@ -1,9 +1,14 @@
-.project__video {
-  border: solid 1px #f8f8f8;
-  width: 100%;
+.info__project, .preview__next {
+  margin: 3em 2em 0;
 }
 
-
+.big-img{
+  width: 100%;
+}
+.big-img__container{
+  border: 1px solid #f8f8f8;
+  padding: 20px 30px;
+}
 .project__design {
   margin: 0 2.5em;
 }
@@ -15,17 +20,21 @@
 }
 
 .project__description {
-  column-count: 2;
-  column-gap: 1.111111111111111em;
   font-size: 0.875em;
-  line-height: 1.388888888888889em;
-  margin-bottom: 5.555555555555556em;
+  line-height: 1.3em;
+  margin-bottom: 5em;
 }
 
 .img-slider {
   background-color: #f8f8f8;
-  padding: 8.125em 0;
-  margin-bottom: 2.5em;
+  padding: 5em 2em;
+  margin-bottom: 3em;
+}
+.img-slider img{
+  width: 100%;
+}
+#image1{
+  padding-bottom: 3em;
 }
 
 .project__preview, .project__next {
@@ -39,20 +48,19 @@
   align-items: center;
 }
 
-.project__button_container {
+.button_site {
   display: block;
-}
-
-.project__button_container a {
-  display: inline-block;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .preview__next {
-  margin-top: 5em;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  font-size: 0.8em;
 }
 
 .project__preview img {
@@ -60,4 +68,60 @@
 }
 .project__next img{
   margin-left: 1.25em;
+}
+
+
+@media screen and (min-width: 800px){
+  .info__project, .preview__next {
+    margin: 3em 5em 0;
+  }
+  .project__description {
+    column-count: 2;
+    column-gap: 1.111111111111111em;
+    font-size: 0.875em;
+    line-height: 1.3em;
+    margin-bottom: 5em;
+  }
+
+  .preview__next {
+    font-size: 1em;
+  }
+
+  .big-img__container{
+    border: 1px solid #f8f8f8;
+    padding: 50px 60px;
+  }
+
+  .img-slider{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 1em;
+    padding: 5em 5em;
+  }
+
+  #image1{
+    padding: 0;
+  }
+  .img-slider img{
+    width: 50%;
+  }
+
+}
+@media screen and (min-width: 1280px) {
+  .project__infos, .project__description{
+    font-size: 1.125em;
+  }
+
+  .info__project, .preview__next {
+    margin: 5em 8em 0;
+  }
+  .big-img__container{
+    border: 1px solid #f8f8f8;
+    padding: 60px 70px;
+  }
+
+  .img-slider{
+    padding: 5em 8em;
+  }
 }

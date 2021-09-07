@@ -1,6 +1,3 @@
-.contact {
-  text-align: center;
-}
 
 p.contact__me {
   font-size: 1.25em;
@@ -8,29 +5,39 @@ p.contact__me {
   color: #F5CA41;
   font-weight: 300;
   margin-bottom: 2.7em;
+  text-align: center;
 }
-
+.contact_field{
+  border-bottom: 2px solid #F5CA41;
+  background-color: #1a1a1a;
+  padding: 1em;
+}
+.contact_field:not(:last-of-type){
+ margin-bottom: 2em;
+}
 form input, form textarea {
   font: 1em sans-serif;
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid #f8f8f8;
-  background-color: transparent;
+  border: none;
 }
 
 form label {
-  display: inline-block;
-  text-align: left;
+  font-size: 1em;
+  color: #f8f8f8;
+  font-family: "Playfair Display", serif;
 }
 
 form input {
-  padding: 1em 1em;
+  padding: 1em;
   color: #f8f8f8;
+  background-color: transparent;
+  margin-top: 0.5em;
 }
 
 form textarea {
-  vertical-align: middle;
-  padding: 1em 1em;
+  background-color: transparent;
+  padding: 1em;
   color: #f8f8f8;
   width: 100%;
   min-width: 100%;
@@ -38,11 +45,14 @@ form textarea {
   height: 9.375em;
   min-height: 6.25em;
   max-height: 18.75em;
+  margin-top: 0.5em;
+
 }
 
+
 form input::placeholder, form textarea::placeholder {
-  color: #f8f8f8;
-  font-size: 0.9em;
+  color: #6E6E6E;
+  font-size: 0.8em;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
 }
@@ -55,13 +65,8 @@ form .button {
   background-color: transparent;
   border: 2px solid #F5CA41;
   color: #f8f8f8;
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
   font-size: 1em;
-}
-
-@media screen and (min-width: 1024px) {
-  form {
-    padding: 0 10%;
-  }
+  cursor: pointer;
 }

@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="42f6c090-dfd9-4ce2-affe-b5da4166d1e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/projects.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/projects.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/public/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/public/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/img/dribbble.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/public/img/dribbble.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/img/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/public/img/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_home-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_home-page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_single-project.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/_single-project.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/resources/scss/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/single-project.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/single-project.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +59,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/wamp64/www/pendu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\natac\Documents NO onedrive\design web portfolio\projet-portfolio\wp-content\themes\portfolio\public\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,17 +86,37 @@
       <workItem from="1614680112992" duration="6644000" />
       <workItem from="1614772188652" duration="23000" />
       <workItem from="1614854364443" duration="3520000" />
+      <workItem from="1626274074326" duration="7733000" />
+      <workItem from="1628427983506" duration="223000" />
+      <workItem from="1630164649016" duration="5829000" />
+      <workItem from="1630324566781" duration="17203000" />
+      <workItem from="1630782761065" duration="5167000" />
+      <workItem from="1630832419097" duration="611000" />
+      <workItem from="1630953703030" duration="3123000" />
+      <workItem from="1631020563543" duration="3583000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614861028912">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630956464309">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1614861028912" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614772199440" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1680.26.1680.1010@0.0.1536.824" timestamp="1630956464309" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630167813997" />
   </component>
 </project>

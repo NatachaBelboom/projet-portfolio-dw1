@@ -1,4 +1,3 @@
-//telephone
 .container img {
   width: 100%;
   height: auto;
@@ -150,9 +149,7 @@ div.project__container {
 
 }
 
-//ordi
 @media screen and (min-width: 1024px) {
-  // style last project
   .container {
     display: flex;
     flex-direction: row;
@@ -174,7 +171,6 @@ div.project__container {
     margin: 2.5em 0 3.75em;
   }
 
-  //style presentation + button
   .presentation {
     padding-top: 3.125em;
     padding-bottom: 4.5em;
@@ -200,8 +196,6 @@ div.project__container {
     margin-bottom: 3.125em;
   }
 
-
-  // style projects
   .project__content {
     font-family: "Playfair Display", serif;
     z-index: 90;
@@ -275,5 +269,12 @@ div.project__container {
 
   .project:nth-child(even) {
     margin-top: 10em;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  body{
+    padding-left: calc((100vw - 1920px) / 2);
+    padding-right:  calc((100vw - 1920px) / 2);
   }
 }
